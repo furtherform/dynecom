@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: d273ce729d56b4bf4ba7a94cf04dabd7
+timeCreated: 1488808947
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube
+    100002: //RootNode
+    100004: PaperWall_01
+    100006: PaperWall_02
+    100008: PaperWall_03
+    100010: PaperWall_04
+    100012: PaperWall_05
+    100014: PaperWall_06
+    100016: PaperWall_07
+    100018: PaperWall_08
+    100020: PaperWall_09
+    100022: PaperWallUp_01
+    100024: PaperWallUp_02
+    100026: PaperWallUp_03
+    100028: PaperWallUp_04
+    100030: PaperWallUp_05
+    100032: PillarBig
+    100034: PillarThin
+    100036: PillarUo
+    400000: Cube
+    400002: //RootNode
+    400004: PaperWall_01
+    400006: PaperWall_02
+    400008: PaperWall_03
+    400010: PaperWall_04
+    400012: PaperWall_05
+    400014: PaperWall_06
+    400016: PaperWall_07
+    400018: PaperWall_08
+    400020: PaperWall_09
+    400022: PaperWallUp_01
+    400024: PaperWallUp_02
+    400026: PaperWallUp_03
+    400028: PaperWallUp_04
+    400030: PaperWallUp_05
+    400032: PillarBig
+    400034: PillarThin
+    400036: PillarUo
+    2300000: Cube
+    2300002: PaperWall_01
+    2300004: PaperWall_02
+    2300006: PaperWall_03
+    2300008: PaperWall_04
+    2300010: PaperWall_05
+    2300012: PaperWall_06
+    2300014: PaperWall_07
+    2300016: PaperWall_08
+    2300018: PaperWall_09
+    2300020: PaperWallUp_01
+    2300022: PaperWallUp_02
+    2300024: PaperWallUp_03
+    2300026: PaperWallUp_04
+    2300028: PaperWallUp_05
+    2300030: PillarBig
+    2300032: PillarThin
+    2300034: PillarUo
+    3300000: Cube
+    3300002: PaperWall_01
+    3300004: PaperWall_02
+    3300006: PaperWall_03
+    3300008: PaperWall_04
+    3300010: PaperWall_05
+    3300012: PaperWall_06
+    3300014: PaperWall_07
+    3300016: PaperWall_08
+    3300018: PaperWall_09
+    3300020: PaperWallUp_01
+    3300022: PaperWallUp_02
+    3300024: PaperWallUp_03
+    3300026: PaperWallUp_04
+    3300028: PaperWallUp_05
+    3300030: PillarBig
+    3300032: PillarThin
+    3300034: PillarUo
+    4300000: Cube
+    4300002: PaperWallUp_01
+    4300004: PaperWallUp_02
+    4300006: PaperWallUp_03
+    4300008: PaperWallUp_04
+    4300010: PaperWallUp_05
+    4300012: PaperWall_09
+    4300014: PaperWall_08
+    4300016: PaperWall_07
+    4300018: PaperWall_06
+    4300020: PaperWall_05
+    4300022: PaperWall_04
+    4300024: PaperWall_03
+    4300026: PaperWall_02
+    4300028: PaperWall_01
+    4300030: PillarThin
+    4300032: PillarBig
+    4300034: PillarUo
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

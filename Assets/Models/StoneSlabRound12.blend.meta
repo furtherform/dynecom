@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: bbce300a36db1f9498e99afde6eafe87
+timeCreated: 1492004325
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bridge
+    100002: floor
+    100004: ground
+    100006: pillar1
+    100008: pillar2
+    100010: pillar3
+    100012: pillar3_001
+    100014: pillar4
+    100016: pillar5
+    100018: pillar6
+    100020: pillar7
+    100022: Slab
+    100024: Slab_001
+    100026: Slab_002
+    100028: Slab_003
+    100030: Slab_004
+    100032: Slab_005
+    100034: Slab_006
+    100036: Statue_002
+    100038: Statue_002_MeshPart0
+    100040: Statue_002_MeshPart1
+    100042: Statue_002_MeshPart2
+    100044: //RootNode
+    100046: walls
+    400000: Bridge
+    400002: floor
+    400004: ground
+    400006: pillar1
+    400008: pillar2
+    400010: pillar3
+    400012: pillar3_001
+    400014: pillar4
+    400016: pillar5
+    400018: pillar6
+    400020: pillar7
+    400022: Slab
+    400024: Slab_001
+    400026: Slab_002
+    400028: Slab_003
+    400030: Slab_004
+    400032: Slab_005
+    400034: Slab_006
+    400036: Statue_002
+    400038: Statue_002_MeshPart0
+    400040: Statue_002_MeshPart1
+    400042: Statue_002_MeshPart2
+    400044: //RootNode
+    400046: walls
+    2300000: Bridge
+    2300002: floor
+    2300004: ground
+    2300006: pillar1
+    2300008: pillar2
+    2300010: pillar3
+    2300012: pillar3_001
+    2300014: pillar4
+    2300016: pillar5
+    2300018: pillar6
+    2300020: pillar7
+    2300022: Slab
+    2300024: Slab_001
+    2300026: Slab_002
+    2300028: Slab_003
+    2300030: Slab_004
+    2300032: Slab_005
+    2300034: Slab_006
+    2300036: Statue_002_MeshPart0
+    2300038: Statue_002_MeshPart1
+    2300040: Statue_002_MeshPart2
+    2300042: walls
+    3300000: Bridge
+    3300002: floor
+    3300004: ground
+    3300006: pillar1
+    3300008: pillar2
+    3300010: pillar3
+    3300012: pillar3_001
+    3300014: pillar4
+    3300016: pillar5
+    3300018: pillar6
+    3300020: pillar7
+    3300022: Slab
+    3300024: Slab_001
+    3300026: Slab_002
+    3300028: Slab_003
+    3300030: Slab_004
+    3300032: Slab_005
+    3300034: Slab_006
+    3300036: Statue_002_MeshPart0
+    3300038: Statue_002_MeshPart1
+    3300040: Statue_002_MeshPart2
+    3300042: walls
+    4300000: walls
+    4300002: pillar3
+    4300004: pillar7
+    4300006: pillar6
+    4300008: pillar5
+    4300010: pillar4
+    4300012: pillar3_001
+    4300014: pillar2
+    4300016: pillar1
+    4300018: ground
+    4300020: floor
+    4300022: Bridge
+    4300024: Slab_006
+    4300026: Slab_005
+    4300028: Slab_004
+    4300030: Statue_002_MeshPart0
+    4300032: Statue_002_MeshPart1
+    4300034: Statue_002_MeshPart2
+    4300036: Slab_003
+    4300038: Slab_002
+    4300040: Slab_001
+    4300042: Slab
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
